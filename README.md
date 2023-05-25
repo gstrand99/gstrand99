@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="profile_banner"><img/>
+<img src="https://github.com/gstrand99/gstrand99/blob/main/profile_banner.png?raw=true"><img/>
 <!--
 **gstrand99/gstrand99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
