@@ -1,4 +1,4 @@
-<img src="https://github.com/gstrand99/gstrand99/blob/main/profile_banner.png?raw=true"><img/>
+<img src="https://raw.githubusercontent.com/gstrand99/gstrand99/main/profile_banner.png"><img/>
 # Hello there👋
 Test
 
