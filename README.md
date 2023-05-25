@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/gstrand99/gstrand99/main/profile_banner.png"><img/>
 # Hello there👋
-Test
+
 
 <!--
 **gstrand99/gstrand99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
